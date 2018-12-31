@@ -7,9 +7,9 @@ A website where you find few movies,description about them and their trailers on
 ### Prerequisites
   <a href="https://www.python.org/">Python</a>
   
-## Excecution 
+### Excecution 
   1. Download Entertainment_center.py , fresh_tomatoes.py , media.py files.
-  2. Run Entertainment_center.py file
-###### Note :
+  2. Run Entertainment_center.py file ( python Entertainment_center.py)
+##### Note :
   See that all the 3 files are in same folder.
 
