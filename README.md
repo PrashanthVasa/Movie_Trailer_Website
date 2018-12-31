@@ -1,5 +1,7 @@
 # Movie_Trailer_Website
+```
 A website where you find few movies,description about them and their trailers on youtube on clicking the poster.
+```
 <br><br>
 To execute this project:
 <br><br>
